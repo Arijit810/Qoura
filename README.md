@@ -1,2 +1,1 @@
-# Qoura
-NLP project
+
